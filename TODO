@@ -1,0 +1,6 @@
+Big change:
+
+1. Move data_id from bkups to files.
+2. Move db and other global like data to bkupdat
+3. Add actual data to lmbk.db on disk (db exists
+   but data not added).
